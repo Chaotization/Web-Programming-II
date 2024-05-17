@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64e79e99-1886-4a8e-9a20-c79092fcfddd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ValidationChecker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zheng-Chao-Lab1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/mongoCollections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/mongoConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sitblogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/sitblog.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bVkqo7dqKs5rrOEAOYDqPU45GH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.app..js.executor": "Debug",
+    "Node.js.app.js.executor": "Run",
+    "Node.js.sitblog.js.executor": "Debug",
+    "Node.js.sitblogs.js.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.8",
+    "last_opened_file_path": "E:/CS/554/hw/hw1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CS\554\hw\hw1\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e79e99-1886-4a8e-9a20-c79092fcfddd" name="Changes" comment="" />
+      <created>1706307826412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706307826412</updated>
+      <workItem from="1706307827470" duration="687000" />
+      <workItem from="1706369955121" duration="19370000" />
+      <workItem from="1706454464585" duration="1206000" />
+      <workItem from="1706462266998" duration="12903000" />
+      <workItem from="1706494843013" duration="3289000" />
+      <workItem from="1706540597656" duration="20678000" />
+      <workItem from="1706569288181" duration="15004000" />
+      <workItem from="1706591321294" duration="4632000" />
+      <workItem from="1706626401181" duration="15131000" />
+      <workItem from="1706652728573" duration="5794000" />
+      <workItem from="1706667595919" duration="2668000" />
+      <workItem from="1707167636005" duration="1479000" />
+      <workItem from="1707173736101" duration="3792000" />
+      <workItem from="1707191039650" duration="1805000" />
+      <workItem from="1707256990493" duration="16000" />
+      <workItem from="1707772765169" duration="7000" />
+      <workItem from="1707870930872" duration="613000" />
+      <workItem from="1707936763862" duration="1000" />
+      <workItem from="1708053243352" duration="14000" />
+      <workItem from="1715985691096" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="res" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

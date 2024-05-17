@@ -1,0 +1,287 @@
+.App {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.App-logo {
+  height: 3vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+.App-header {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  min-height: 10vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.home-body {
+  min-height: 90vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.overlay {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+  border: 1px solid transparent;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-item {
+  margin-bottom: 10px;
+}
+
+.menu-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-expanded {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 10px;
+  align-self: center;
+}
+
+.header-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header-right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header-link {
+  margin-right: 20px;
+}
+
+.header-link:last-child {
+  margin-right: 0;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 20px;
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.active-link {
+  color: blue;
+}
+
+.expand-button {
+  margin-bottom: 1rem;
+}
+
+.expanded-card {
+  background-color: transparent;
+  margin-top: 1rem;
+}
+
+.history-heading {
+  margin-top: 1rem;
+}
+
+.history-card {
+  margin-top: 1rem;
+}
+
+.read-more-link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.listings-box {
+  margin-top: 1rem;
+}
+
+.listing-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.card-individual {
+  max-width: 900px;
+  width: 100%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+}
+
+.card-list {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-container {
+  max-width: 900px;
+  width: 100%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+}
+
+
+.card-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-media {
+  height: 200px;
+  object-fit: contain;
+  width: 100%;
+}
+
+
+.webcast-iframe {
+  width: 100%;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.grid-item {
+  min-width: 220px;
+}
+
+.main-box {
+  margin: 32px;
+}
+
+.page-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.search-input {
+  margin-left: 8px;
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+}
+
+.search-label {
+  color: white;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  gap: 1rem;
+}
+
+.pagination-button {
+  margin: 0 0.5rem;
+}
+
+.pagination-text {
+  margin: 0 0.5rem;
+  color: white;
+}
+
+.menu-icon {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1100;
+}
+
+.roulette-menu {
+  position: fixed;
+  top: 48px;
+  left: 0;
+  width: 250px;
+  max-height: 400px;
+  overflow-y: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 4px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  z-index: 1050;
+}
+
+.menu-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.roulette-item {
+  transition: font-size 0.3s ease;
+}
+
+
+.roulette-item:hover {
+  font-size: 1.2rem;
+}
+
+.roulette-item a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  padding: 8px 0;
+}
+
+.roulette-menu:hover {
+  transform: rotate(360deg);
+}
